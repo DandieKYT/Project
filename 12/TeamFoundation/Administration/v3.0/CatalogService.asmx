@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><soap:Envelope xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://microsoft.com/webservices/"><soap:Body><QueryNodes></QueryNodes></soap:Body></soap:Envelope>

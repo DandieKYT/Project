@@ -1,0 +1,30 @@
+
+h1{
+color: steelblue;
+font-style: Times New Roman ;
+font-size: 30px ;
+}
+main{
+font-style: Italic;
+font-size: 25 px;
+background-color: steelblue;
+}
+a{
+font-style: Times New Roman
+font-size: 39 px;
+}
+header{
+font-style: Times New Roman
+font-size: 25 px;
+color: green;
+}
+footer{
+font-style: Times New Roman
+font-size: 25 px;
+color: blue;
+background-color: yellow;
+}
+code {
+  font-family: "Courier New", "Courier", monospace;
+  color: #6a2cce;
+}
